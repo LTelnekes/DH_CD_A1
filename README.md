@@ -2,7 +2,7 @@
 
 ## About the Dataset
 
-This dataset includes presidential speeches from American presidents throughout history, starting from George Washington in 1792 to Donald Trump on Sept. 25th, 2019. The creator of the dataset has decided to make several datasets to have an overview of all speeches, as well as the six political eras of the United States, and described these as follows:
+This dataset includes presidential speeches from American presidents throughout history, starting from George Washington in 1792 to Donald Trump on September 25th, 2019. The creator of the dataset has decided to make several datasets to have an overview of all speeches, as well as the six political eras of the United States, and described these as follows:
 
 > - **'presidential_speeches.csv':** Contains all official presidential speeches until September 9th, 2019.
 > - **'corpus.csv':** A condensed version of presidential_speeches.csv that only contains the president, political affiliation, and the respective speech.
